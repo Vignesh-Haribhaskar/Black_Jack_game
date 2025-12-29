@@ -1,12 +1,12 @@
-# Blackjack Game (Python – OOP)
+# Blackjack Game (Python)
 
-This is a **command-line Blackjack game** built using **Object-Oriented Programming (OOP)** in Python.  
+This is a **command-line Blackjack game** built using Python.  
 
 ---
 
 ## 🎯 Project Overview
 
-The game simulates a classic **Blackjack (21)** card game where:
+The game simulates a classic **Blackjack** card game where:
 - A player competes against the dealer
 - Cards are shuffled and dealt from a standard deck
 - Blackjack rules are enforced
