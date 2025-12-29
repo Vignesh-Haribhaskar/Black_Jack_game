@@ -1,7 +1,6 @@
 # Blackjack Game (Python – OOP)
 
 This is a **command-line Blackjack game** built using **Object-Oriented Programming (OOP)** in Python.  
-The project was created as part of my **Python fundamentals and software engineering practice**.
 
 ---
 
